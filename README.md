@@ -55,12 +55,13 @@ Hi! I'm **Asif Khan**, a B.Tech student in **Delhi Technological University,New 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GERMAN-grey?style=for-the-badge&logo=duolingo&logoColor=white" />
 </p>
 
 **AI / ML & Deep Learning**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANN-FF4500?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/DECISION_TREES-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REGRESSION_MODELS-02A8A8?style=for-the-badge" />
