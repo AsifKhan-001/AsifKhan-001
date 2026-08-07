@@ -37,8 +37,8 @@
 
 Hi! I'm **Asif Khan**, a B.Tech student in **Delhi Technological University,New Delhi,India** passionate about building real-world AI systems & **Products** and applied **ML**/**DL**/**LLMs**/**GenAI**.
 
-- 🔭 Currently building **AI-powered tools** and exploring **LLM pipelines**
-- 🌱 Learning **FastAPI**, **YOLOv11**, **Ensemble Methods** & more
+- 🔭 Currently building **Agentic AI systems** with **LangGraph** and exploring multi-agent **RAG** pipelines
+- 🌱 Learning **Corrective RAG**, **Self-RAG**, **LLM Memory architectures**, and the **GPT-2** internals
 - 💡 Interested in **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision** & **AI Systems**
 - 🤝 Open to **collaborations**, **open source**, and **interesting problems**
 - ⚡ Motto: *"Still learning. Still building. Still experimenting."*
@@ -86,11 +86,28 @@ Hi! I'm **Asif Khan**, a B.Tech student in **Delhi Technological University,New 
   <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
+**GenAI / LLM Orchestration & Agentic AI**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGSMITH-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AGENTIC_AI-7B2FFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ADVANCED_RAG-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CORRECTIVE_RAG-0096C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELF_RAG-0077B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_MEMORY-023E8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT--2_ARCHITECTURE-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
 **LLM & AI APIs**
 
 <p align="left">
   <img src="https://img.shields.io/badge/GROQ_API-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLAMA-7B2FFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/REPORTLAB-DC143C?style=for-the-badge" />
 </p>
 
@@ -130,6 +147,7 @@ Hi! I'm **Asif Khan**, a B.Tech student in **Delhi Technological University,New 
 
 | | Achievement |
 |-|-------------|
+| 🥇 | **YTubeAgentMind** — Agentic AI system that turns any YouTube video into an interactive knowledge base — ask questions, generate notes, and create flashcards using LangGraph + Advanced RAG. |
 | 🥇 | **Duplicate Question Pair AI** — Semantic similarity engine using NLP, Deep Learning, and advanced ML architectures |
 | 🚨 | **Anomaly Detection System** — Predictive monitoring and intelligent alerts for server stability management |
 | 🩺 | **Syntax Health AI** — Medical assistant integrating LLM APIs with chest X-ray diagnostic models |
